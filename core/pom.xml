@@ -11,7 +11,7 @@
     <artifactId>time-tracker-core</artifactId>
     <packaging>jar</packaging>
     <name>Time Tracker (Core)</name>
-
+sdsd
     <dependencies>
         <dependency>
             <groupId>org.springframework</groupId>
